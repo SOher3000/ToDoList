@@ -26,8 +26,6 @@ Follow these steps to get the Mystical ToDoList up and running:
 We welcome contributions to the Mystical ToDoList project! Feel free to fork this repository and submit pull requests with your mystical enhancements.
 
 ## Credits 🙏
-- Mystical icons by [OccultIcon.com](https://www.occulticon.com)
 - Inspiration from ancient scrolls and modern productivity gurus.
 
-## License 📄
-This project is licensed under the Mystic License - see the [LICENSE](LICENSE) file for details.
+
